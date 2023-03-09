@@ -1,3 +1,4 @@
 {
-  "backends": ["https://ton-source-prod-1.herokuapp.com","https://ton-source-prod-2.herokuapp.com","https://ton-source-prod-3.herokuapp.com"]
+  "backends": ["https://ton-source-prod-1.herokuapp.com","https://ton-source-prod-2.herokuapp.com","https://ton-source-prod-3.herokuapp.com"],
+  "backendsTestnet": ["https://ton-source-prod-testnet-1.herokuapp.com"]
 }
