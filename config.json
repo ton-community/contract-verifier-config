@@ -1,5 +1,6 @@
 {
   "backends": ["https://ton-source-prod-1.herokuapp.com","https://ton-source-prod-2.herokuapp.com","https://ton-source-prod-3.herokuapp.com"],
   "backendsTestnet": ["https://ton-source-prod-testnet-1.herokuapp.com"],
-  "funcVersions": ["0.4.3", "0.4.2", "0.4.1", "0.4.0", "0.3.0", "0.2.0"]
+  "funcVersions": ["0.4.3", "0.4.2", "0.4.1", "0.4.0", "0.3.0", "0.2.0"],
+  "tactVersions": ["1.0.0", "1.1.0", "1.1.1", "1.1.2"]
 }
