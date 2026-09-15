@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This verifier version is deprecated. Please use the [new verifier](https://github.com/ton-blockchain/acton/tree/master/apps/verifier)
+> instead.
+
 # Contract Verifier Config
 
 Central configuration file for TON contract verification infrastructure.
